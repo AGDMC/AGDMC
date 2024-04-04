@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amanda</h1>
 <h3 align="center">A passionate frontend developer from Toronto, Ontario, Canada</h3>
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake.svg">
+<img alt="github-snake" src="https://raw.githubusercontent.com/Lmasniuk/Lmasniuk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agdmc&label=Profile%20views&color=0e75b6&style=flat" alt="agdmc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agdmc" alt="agdmc" /></a> </p>
