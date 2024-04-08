@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amanda</h1>
+<h1 align="center">Hi 👋, I'm Amanda aka @AiriCodes_</h1>
 <h3 align="center">A passionate frontend developer from Toronto, Ontario, Canada</h3>
 
 <picture>
