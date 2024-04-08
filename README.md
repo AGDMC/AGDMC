@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **New Projects**
 
-- 🤝 I’m looking for help with **PHP, ReactNative**
+- 🤝 I’m looking for help with **PHP, ReactNative, LeetCode Challenges**
 
 - 💬 Ask me about **SEO, Social Media Management, Canva, WordPress**
 
