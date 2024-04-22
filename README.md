@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **New Projects**
+- 👯 I’m looking to collaborate on **Leet Code Challenges**
 
 - 🤝 I’m looking for help with **PHP, ReactNative, LeetCode Challenges**
 
