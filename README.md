@@ -20,7 +20,7 @@
 
 - 🤝 I’m looking for help with **PHP, ReactNative, MongoDB, LeetCode Challenges**
 
-- 💬 Ask me about **SEO, Social Media Management, Canva, WordPress**
+- 💬 Ask me about **SEO, Social Media Management, Canva, WordPress, Meta Business Suite, Google Analytics**
 
 - 📫 How to reach me **collantesaart@gmail.com**
 
