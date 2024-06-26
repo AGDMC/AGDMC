@@ -12,13 +12,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agdmc" alt="agdmc" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **My Portfolio, Programming Fundamentals**
+
+- 📖 I’m currently reading on **Learn You a Haskell for Great Good!: A Beginner's Guide by Miran Lipovaca** 
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **Leet Code Challenges**
+- 👯 I’m looking to collaborate on **Feedback on Projects**
 
-- 🤝 I’m looking for help with **PHP, ReactNative, MongoDB, LeetCode Challenges**
+- 🤝 I’m looking for help with **ReactNative, MongoDB, LeetCode Challenges**
 
 - 💬 Ask me about **SEO, Social Media Management, Canva, WordPress, Meta Business Suite, Google Analytics**
 
