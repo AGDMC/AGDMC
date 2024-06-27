@@ -12,17 +12,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agdmc" alt="agdmc" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio, Programming Fundamentals**
+- 🔭 I’m currently working on **My Portfolio & Programming Fundamentals**
 
 - 📖 I’m currently reading **Learn You a Haskell for Great Good!: A Beginner's Guide by Miran Lipovaca** 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning in **Javascript**
 
 - 👯 I’m looking to collaborate on **Feedback on Projects**
 
-- 🤝 I’m looking for help with **ReactNative, MongoDB, LeetCode Challenges**
+- 🤝 I’m looking for help with **ReactNative for mobile applications & LeetCode Challenges**
 
 - 💬 Ask me about **SEO, Social Media Management, Canva, WordPress, Meta Business Suite, Google Analytics**
+  
+- I've worked in digital marketing for the last two years as a wordprees webmaster and social media content creator for the education industry.
 
 - 📫 How to reach me **collantesaart@gmail.com**
 
