@@ -14,6 +14,8 @@
 
 - 🔭 I’m currently working on **My Portfolio & Programming Fundamentals**
 
+- 📚 I'm taking another course.
+
 - 📖 I’m currently reading **Learn You a Haskell for Great Good!: A Beginner's Guide by Miran Lipovaca** 
 
 - 🌱 I’m currently learning in **Javascript**
