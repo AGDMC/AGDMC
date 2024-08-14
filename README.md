@@ -22,11 +22,13 @@
 
 - 👯 I’m looking to collaborate on **Feedback on Projects**
 
-- 🤝 I’m looking for help with **ReactNative for mobile applications & LeetCode Challenges**
+- 🤝 I’m looking for help with **React Native for mobile applications & LeetCode Challenges**
 
 - 💬 Ask me about **SEO, Social Media Management, Canva, WordPress, Meta Business Suite, Google Analytics**
   
 - I've worked in digital marketing for the last two years as a wordprees webmaster and social media content creator for the education industry.
+
+- I also worked in education through the majority of my career which helps fuel my passion for learning computer languages. 
 
 - 📫 How to reach me **collantesaart@gmail.com**
 
