@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **SEO, Social Media Management, Canva, WordPress, Meta Business Suite, Google Analytics**
   
-- I've worked in digital marketing for the last two years as a wordprees webmaster and social media content creator for the education industry.
+- I've worked in digital marketing for the last two years as a WordPress webmaster and social media content creator for the education industry.
 
 - I also worked in education through the majority of my career which helps fuel my passion for learning computer languages. 
 
