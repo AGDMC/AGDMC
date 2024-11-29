@@ -30,7 +30,7 @@
 
 - I also worked in education through the majority of my career which helps fuel my passion for learning computer languages. 
 
-- 📫 How to reach me **collantesaart@gmail.com**
+- 📫 How to reach me **airicodes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
